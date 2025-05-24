@@ -49,7 +49,7 @@ public class Base {
 		// Putting data inside
 		body.put("firstname", "Srijit");
 		body.put("lastname", "Sutradhar");
-		body.put("totalprice", 669);
+		body.put("totalprice", 670);
 		body.put("depositpaid", true);
 
 		JSONObject bookingDates = new JSONObject();
